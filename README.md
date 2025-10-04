@@ -1,13 +1,17 @@
+
 > Abrir essa página em [https://profgstv.github.io/microbit-wine-glass/](https://profgstv.github.io/microbit-wine-glass/)
-> Abrir o projeto no [Makecode](https://makecode.microbit.org/S39116-67680-86141-77929).
 
 ## Editar este projeto
 
 Para editar este repositório no MakeCode.
 
-* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clique em **Importar** e depois clique em **Importar URL**
-* cole **https://github.com/profgstv/microbit-wine-glass** e clique em importar
+* abrir o projeto diretamente no [Makecode](https://makecode.microbit.org/S39116-67680-86141-77929).
+
+  OU
+
+* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/);
+* clique em **Importar** e depois clique em **Importar URL**;
+* cole **https://github.com/profgstv/microbit-wine-glass** e clique em importar.
 
 ## Licença de Uso
 
