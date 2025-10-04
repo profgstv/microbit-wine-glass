@@ -1,11 +1,11 @@
 
 > Abrir essa página em [https://profgstv.github.io/microbit-wine-glass/](https://profgstv.github.io/microbit-wine-glass/)
 
-## Editar este projeto
+## Editar este projeto no MakeCode
 
-Para editar este repositório no MakeCode.
+Para visualizar e editar este repositório:
 
-* abrir o projeto diretamente no [Makecode](https://makecode.microbit.org/S39116-67680-86141-77929).
+* abrir o projeto diretamente no [MakeCode](https://makecode.microbit.org/S39116-67680-86141-77929).
 
   OU
 
